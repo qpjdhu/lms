@@ -1,4 +1,4 @@
-lms704399@gmail.com
+lms704399@gmail.com = mongodb, cloudinary, clerk
 
 stripe = qpjdhu@gmail.com 
 
